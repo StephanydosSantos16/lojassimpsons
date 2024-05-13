@@ -1,5 +1,5 @@
 # loja do simpson
-Trabalho de Interface We II - desenvolvendo CRUD (Create Read Update Delete - Criar Ler Atualizar Apagar 
+Trabalho de Interface Web II - desenvolvendo CRUD (Create Read Update Delete - Criar Ler Atualizar Apagar 
 
 Linguagem SQL (Structured Query Language - Linguagem de Consulta Estruturada por IBM)
 
